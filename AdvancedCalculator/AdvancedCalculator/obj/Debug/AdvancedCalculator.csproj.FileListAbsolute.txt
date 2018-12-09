@@ -1,0 +1,7 @@
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojAssemblyReference.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
