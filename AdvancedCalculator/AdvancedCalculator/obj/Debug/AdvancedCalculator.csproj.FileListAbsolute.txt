@@ -5,3 +5,10 @@ C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\Adva
 C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
 C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
 C:\Users\Raj\Desktop\FreeCodeCamp\C# Advanced Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojAssemblyReference.cache
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\LOGARAJ\Desktop\Freecodecamp\Calculator\CSharp_Calculator\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
